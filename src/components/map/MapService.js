@@ -567,13 +567,13 @@ goog.require('ga_urlutils_service');
               // 3D Tileset
               var tileset3d = [
                 'ch.swisstopo.swisstlm3d.3d',
-                'ch.swisstopo.bridgestest.3d',
-                'ch.swisstopo.swissnames3d.3d'
+                'ch.swisstopo.swissnames3d.3d',
+                'ch.swisstopo.trees.3d',
               ];
               var tilesetTs = [
                 '20161217',
-                '20161121',
-                '20170223'
+                '20170223',
+                '20170330'
               ];
 
               var params = gaPermalink.getParams();

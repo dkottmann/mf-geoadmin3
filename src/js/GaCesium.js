@@ -134,7 +134,8 @@ var GaCesium = function(map, gaPermalink, gaLayers, gaGlobalOptions,
     // Tileset 3D
     var tileset3d = [
       'ch.swisstopo.swisstlm3d.3d',
-      'ch.swisstopo.swissnames3d.3d'
+      'ch.swisstopo.swissnames3d.3d',
+      'ch.swisstopo.trees.3d'
     ];
 
     var primitives = [];
