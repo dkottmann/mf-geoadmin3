@@ -156,8 +156,7 @@
       "Cesium.externs.js"
     ],
     "define": [
-      "goog.DEBUG=false",
-      "ol.ENABLE_WEBGL=false"
+      "goog.DEBUG=false"
     ],
     "js": [
     ],

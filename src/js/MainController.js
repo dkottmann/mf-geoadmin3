@@ -64,7 +64,7 @@ goog.require('ga_window_service');
           touchRotate: false,
           keyboard: false
         }),
-        renderer: 'canvas',
+        renderer: 'webgl',
         view: new ol.View({
           projection: defaultProjection,
           center: ol.extent.getCenter(gaMapUtils.defaultExtent),
